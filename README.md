@@ -1,16 +1,11 @@
 # eightball
 
-A simple 8ball app made with Flutter. 
+This is a super simple magic eight-ball app. 
 
-## Getting Started
+## usage:
+Think about a question and click on the magic eight-ball to reveal your answer. 
 
-This project is a starting point for a Flutter application.
+### credit
+This was a Boss challenge for the Flutter course from London App Brewery on Udemy.com
+[https://www.udemy.com/course/flutter-bootcamp-with-dart/]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
